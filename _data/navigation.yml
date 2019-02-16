@@ -1,0 +1,38 @@
+# main links
+main:
+  - title: "Arsip"
+    url: /arsip/
+  - title: "Kontak"
+    url: /kontak/
+  - title: "Tentang"
+    url: /tentang/
+
+arsip:
+  - title: Analisis Data
+    children:
+      - title: "Nomor 1"
+        url: /arsip/where
+      - title: "Nomor 2"
+        url: /arsip/wherer
+
+  - title: Analisis Data
+    children:
+      - title: "Nomor 1"
+        url: /arsip/where
+      - title: "Nomor 2"
+        url: /arsip/wherer
+
+  - title: Analisis Data
+    children:
+      - title: "Nomor 1"
+        url: /arsip/where
+      - title: "Nomor 2"
+        url: /arsip/wherer
+
+  - title: Analisis Data
+    children:
+      - title: "Nomor 1"
+        url: /arsip/where
+      - title: "Nomor 2"
+        url: /arsip/wherer
+
